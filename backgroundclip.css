@@ -1,0 +1,25 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:100px;
+    font-weight:900;
+    text-align: center;
+    text-transform:uppercase;
+    background-image:url("tiger.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+}
+.tig{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:100px;
+    font-weight:bolder;
+    text-align:left;
+    text-transform:capitalize;
+    background-image:url("tiger2.jpg");
+    background-size:cover;
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+}
